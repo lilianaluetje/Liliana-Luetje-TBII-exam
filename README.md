@@ -1,4 +1,4 @@
-This repository contains my Tech Basics II Exam Project code. I have built a MVP for an Calendar ToDo List calles EVENTually:
+This repository contains my Tech Basics II Exam Project code. I have built a MVP for an Calendar ToDo List called EVENTually:
 
 When you run the app.py you are greeted with a homepage, which has two buttons - one for a new user and one for the returning user.
 If this is the users first time on the app, then they will click on the new user button and register some information. This is data is stored in a .csv file. For this MVP I am sharing my test users data, but data privacy will be extremely important when I launch my app.
